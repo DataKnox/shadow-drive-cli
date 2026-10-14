@@ -1,7 +1,8 @@
 ## Getting Started
 
 ### Installation
-## Knox wuz here 
+## Knox wuz here
+## BAM wuz here 
 `npm install -g @shadow-drive/cli` or `yarn global add @shadow-drive/cli`
 
 The basic flow of Shadow Drive is as follows:
@@ -47,6 +48,8 @@ The stake from the storage account that you mark as immutable will also be deduc
 Parameters:
 
 1. Keypair: Path to the wallet that is an admin of the storage account you want to make immutable.
+
+
 
 ### Delete Storage Account
 
